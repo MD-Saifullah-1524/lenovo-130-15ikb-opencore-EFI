@@ -6,17 +6,31 @@ we all know creating an EFI folder for opencore is a mess atleast it was for me 
 just follow dortania's opencore guide and use this folder instead of creating you own
 # Kexts currently using
 AppleALC.kext
+
 BlueToolFixup.kext
+
 BrightnessKeys.kext
+
 Lilu.kext
+
 NVMeFix.kext
+
 RtWlanU.kext
+
 RtWlanU1827.kext
+
 SMCBatteryManager.kext
+
 SMCLightSensor.kext
+
 SMCProcessor.kext
+
 SMCSuperIO.kext
+
 VirtualSMC.kext
+
 VoodooPS2Controller.kext
+
 VoodooSMBus.kext
+
 WhateverGreen.kext
